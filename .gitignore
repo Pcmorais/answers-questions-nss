@@ -1,0 +1,58 @@
+# .NET Core
+bin/
+obj/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+x64/
+x86/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Node.js
+node_modules/
+
+# NPM package files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# VS for Mac
+.vscode/
